@@ -1,0 +1,93 @@
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+
+body{
+    background: rgb(96, 232, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    
+}
+
+.place{
+    border-color: #ccc #999 #999 #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #FFFF;
+}
+
+.place h2{
+    border-bottom: 1px dashed #7e9f19;
+    margin: 0;
+}
+
+.fundo{
+    background-color:#FFFF;
+}
+
+.fundo a{
+    color: brown;
+    text-decoration: none;
+}
+
+.place h1 {
+    margin: 0;
+    color: darkturquoise;
+}
+
+.place img{
+    width: 230px;
+    height: 230px;
+    border: 1px solid #7e9f19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 5px;
+}
+
+h1 a{
+    text-decoration: none;
+}
+
+h1 a:hover{
+    background-color: deeppink;
+    color: floralwhite;
+}
+
+.clear{
+    clear: both;
+}
+
+.footer{
+    font-size: 12;
+    text-align: center;
+    color: white;
+}
+.sidenote{
+    background-color: #fffbe4;
+    border: solid 1px;
+    padding: 10px;
+    float: right;
+    width: 260px;
+}
+
+.sidenote h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.sidenote ol{
+    font-size: 12px;
+}
+
+.places{
+    float: left;
+    width: 660px;
+}
+
+.banner{
+    background: url("web.jpg");
+    width: 960px;
+    height: 200px;
+    margin: 0 auto;
+}
